@@ -1,0 +1,72 @@
+body {
+    font-size: 16px;
+    line-height: normal;
+    font-family: 'Quicksand', sans-serif;
+	color: #2d3c49;
+}
+
+header {
+    padding-bottom: 20px;
+    border-bottom: 5px solid #7d97ad;
+}
+
+header .logo {
+    float: left;
+	margin-top: 20px;
+}
+
+header hgroup {
+    text-align: right;
+}
+
+header hgroup h1{
+    font-size: 60px;
+    font-weight: 300;
+}
+
+header hgroup h2{
+    margin-top: 0;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.headline {
+    font-size: 35px;
+    font-weight: 700;
+    color: #7d97ad;
+    margin-bottom: 30px;
+}
+
+.hero {
+    height: 500px;
+    margin: 30px auto 30px;	
+}
+
+.hero-image {
+    background: url("../img/hero.jpg");
+    background-size: cover;
+    width: 100%;
+	max-width: 1140px;
+    height: 100%;
+	margin: 0 auto;
+}
+
+.article {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+figure img {
+    width: 100%;
+}
+
+figcaption {
+	margin: 10px 0 10px;
+    font-size: 35px;
+    font-weight: 700;  
+}
+
+.description a {
+	color: #2d3c49;
+	font-weight: 700;
+}
